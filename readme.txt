@@ -6,5 +6,6 @@
 	<p>Git is free software distributed under the GPL.</p>
 	<p>Git has a mutable index called stage.</p>
         <p>Creating a new branch is quick and simple.</p>
+。。。。。。。
 </body>
 </html>
