@@ -1,6 +1,6 @@
 <!doctype html>
 <html>
-<head></head>
+<head>just a test</head>
 <body>
     <p>Git is a distributed version control system！</p>
 	<p>Git is free software distributed under the GPL.</p>
